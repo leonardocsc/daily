@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T09:17:54.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="bj3OdM_OPbhD0GfCFH24" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T09:28:45.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="NNgXCPuJax2pl8nDlIDf" version="13.6.5" type="github">
   <diagram id="-FwnupE_FcqHFq58FnGX" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -140,12 +140,12 @@
           <mxGeometry x="850" y="560" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aiBMvvcFdyViCJxJI2UF-67" value="文件存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="670" width="80" height="50" as="geometry" />
+          <mxGeometry x="840" y="660" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="aiBMvvcFdyViCJxJI2UF-69" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="694.58" as="sourcePoint" />
-            <mxPoint x="830" y="694.58" as="targetPoint" />
+            <mxPoint x="720" y="684.58" as="sourcePoint" />
+            <mxPoint x="830" y="684.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aiBMvvcFdyViCJxJI2UF-71" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1">
@@ -183,6 +183,36 @@
         </mxCell>
         <mxCell id="aiBMvvcFdyViCJxJI2UF-84" value="限流" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="860" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiBMvvcFdyViCJxJI2UF-85" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="583" y="720" width="337" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="aiBMvvcFdyViCJxJI2UF-86" value="业务服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="730" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aiBMvvcFdyViCJxJI2UF-89" value="微信服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="760" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiBMvvcFdyViCJxJI2UF-90" value="帕金森服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="706.5" y="760" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiBMvvcFdyViCJxJI2UF-91" value="app更新服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="760" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiBMvvcFdyViCJxJI2UF-92" value="聊天服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="810" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiBMvvcFdyViCJxJI2UF-93" value="内容库服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="706.5" y="810" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiBMvvcFdyViCJxJI2UF-94" value="药品库服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="810" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiBMvvcFdyViCJxJI2UF-95" value="其它业务服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="860" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiBMvvcFdyViCJxJI2UF-96" value="文件存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="650" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
