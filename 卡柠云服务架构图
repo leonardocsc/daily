@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T06:39:48.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="UA06nC6Dy2laVEFvrwTd" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-26T06:41:51.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="msHeQUYcRoDHMtX4GMSH" version="13.6.5" type="github">
   <diagram id="-FwnupE_FcqHFq58FnGX" name="Page-1">
     <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
@@ -213,6 +213,9 @@
         </mxCell>
         <mxCell id="aiBMvvcFdyViCJxJI2UF-96" value="文件存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="650" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aiBMvvcFdyViCJxJI2UF-98" value="内部服务openfeign调用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="545" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
